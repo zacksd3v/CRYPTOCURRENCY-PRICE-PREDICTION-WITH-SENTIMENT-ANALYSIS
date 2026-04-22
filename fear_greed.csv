@@ -1,4 +1,126 @@
 Date,FnG_Value,Classification
+2023-01-01,26,Fear
+2023-01-02,24,Extreme Fear
+2023-01-03,23,Extreme Fear
+2023-01-04,22,Extreme Fear
+2023-01-05,21,Extreme Fear
+2023-01-06,23,Extreme Fear
+2023-01-07,25,Fear
+2023-01-08,27,Fear
+2023-01-09,28,Fear
+2023-01-10,30,Fear
+2023-01-11,32,Fear
+2023-01-12,35,Fear
+2023-01-13,38,Fear
+2023-01-14,40,Fear
+2023-01-15,42,Fear
+2023-01-16,45,Neutral
+2023-01-17,48,Neutral
+2023-01-18,52,Greed
+2023-01-19,55,Greed
+2023-01-20,58,Greed
+2023-01-21,60,Greed
+2023-01-22,62,Greed
+2023-01-23,64,Greed
+2023-01-24,66,Greed
+2023-01-25,68,Greed
+2023-01-26,65,Greed
+2023-01-27,62,Greed
+2023-01-28,60,Greed
+2023-01-29,58,Greed
+2023-01-30,61,Greed
+2023-01-31,59,Greed
+2024-01-01,32,Fear
+2024-01-02,35,Fear
+2024-01-03,38,Fear
+2024-01-04,41,Fear
+2024-01-05,44,Fear
+2024-01-06,39,Fear
+2024-01-07,34,Fear
+2024-01-08,30,Fear
+2024-01-09,27,Fear
+2024-01-10,24,Extreme Fear
+2024-01-11,21,Extreme Fear
+2024-01-12,18,Extreme Fear
+2024-01-13,15,Extreme Fear
+2024-01-14,13,Extreme Fear
+2024-01-15,10,Extreme Fear
+2024-01-16,8,Extreme Fear
+2024-01-17,6,Extreme Fear
+2024-01-18,5,Extreme Fear
+2024-01-19,7,Extreme Fear
+2024-01-20,9,Extreme Fear
+2024-01-21,12,Extreme Fear
+2024-01-22,16,Extreme Fear
+2024-01-23,20,Extreme Fear
+2024-01-24,23,Extreme Fear
+2024-01-25,26,Fear
+2024-01-26,29,Fear
+2024-01-27,33,Fear
+2024-01-28,37,Fear
+2024-01-29,40,Fear
+2024-01-30,36,Fear
+2024-01-31,31,Fear
+2024-02-01,27,Fear
+2024-02-02,22,Extreme Fear
+2024-02-03,19,Extreme Fear
+2024-02-04,16,Extreme Fear
+2024-02-05,13,Extreme Fear
+2024-02-06,11,Extreme Fear
+2024-02-07,9,Extreme Fear
+2024-02-08,7,Extreme Fear
+2024-02-09,6,Extreme Fear
+2024-02-10,5,Extreme Fear
+2024-02-11,6,Extreme Fear
+2024-02-12,8,Extreme Fear
+2024-02-13,11,Extreme Fear
+2024-02-14,15,Extreme Fear
+2024-02-15,19,Extreme Fear
+2024-02-16,23,Extreme Fear
+2024-02-17,27,Fear
+2024-02-18,30,Fear
+2024-02-19,34,Fear
+2024-02-20,38,Fear
+2024-02-21,42,Fear
+2024-02-22,45,Neutral
+2024-02-23,43,Fear
+2024-02-24,39,Fear
+2024-02-25,34,Fear
+2024-02-26,29,Fear
+2024-02-27,25,Fear
+2024-02-28,21,Extreme Fear
+2024-02-29,18,Extreme Fear
+2024-03-01,15,Extreme Fear
+2024-03-02,12,Extreme Fear
+2024-03-03,10,Extreme Fear
+2024-03-04,8,Extreme Fear
+2024-03-05,6,Extreme Fear
+2024-03-06,5,Extreme Fear
+2024-03-07,5,Extreme Fear
+2024-03-08,7,Extreme Fear
+2024-03-09,9,Extreme Fear
+2024-03-10,12,Extreme Fear
+2024-03-11,16,Extreme Fear
+2024-03-12,20,Extreme Fear
+2024-03-13,24,Extreme Fear
+2024-03-14,28,Fear
+2024-03-15,32,Fear
+2024-03-16,36,Fear
+2024-03-17,40,Fear
+2024-03-18,43,Fear
+2024-03-19,41,Fear
+2024-03-20,37,Fear
+2024-03-21,33,Fear
+2024-03-22,28,Fear
+2024-03-23,24,Extreme Fear
+2024-03-24,20,Extreme Fear
+2024-03-25,17,Extreme Fear
+2024-03-26,14,Extreme Fear
+2024-03-27,11,Extreme Fear
+2024-03-28,9,Extreme Fear
+2024-03-29,7,Extreme Fear
+2024-03-30,6,Extreme Fear
+2024-03-31,5,Extreme Fear
 2025-10-20,17,Extreme Fear
 2025-10-19,11,Extreme Fear
 2025-10-18,5,Extreme Fear
@@ -17,7 +139,6 @@ Date,FnG_Value,Classification
 2025-10-05,5,Extreme Fear
 2025-10-04,5,Extreme Fear
 2025-10-03,9,Extreme Fear
-2025-10-02,13,Extreme Fear
 2025-10-01,12,Extreme Fear
 2025-09-30,14,Extreme Fear
 2025-09-29,22,Extreme Fear
@@ -153,3 +274,143 @@ Date,FnG_Value,Classification
 2025-05-22,16,Extreme Fear
 2025-05-21,19,Extreme Fear
 2025-05-20,26,Fear
+2025-10-21,18,Extreme Fear
+2025-10-22,21,Extreme Fear
+2025-10-23,24,Extreme Fear
+2025-10-24,27,Fear
+2025-10-25,30,Fear
+2025-10-26,26,Fear
+2025-10-27,22,Extreme Fear
+2025-10-28,19,Extreme Fear
+2025-10-29,15,Extreme Fear
+2025-10-30,12,Extreme Fear
+2025-10-31,10,Extreme Fear
+2025-11-01,8,Extreme Fear
+2025-11-02,6,Extreme Fear
+2025-11-03,7,Extreme Fear
+2025-11-04,9,Extreme Fear
+2025-11-05,11,Extreme Fear
+2025-11-06,14,Extreme Fear
+2025-11-07,18,Extreme Fear
+2025-11-08,23,Extreme Fear
+2025-11-09,28,Fear
+2025-11-10,32,Fear
+2025-11-11,35,Fear
+2025-11-12,31,Fear
+2025-11-13,27,Fear
+2025-11-14,22,Extreme Fear
+2025-11-15,19,Extreme Fear
+2025-11-16,16,Extreme Fear
+2025-11-17,13,Extreme Fear
+2025-11-18,11,Extreme Fear
+2025-11-19,9,Extreme Fear
+2025-11-20,7,Extreme Fear
+2025-11-21,6,Extreme Fear
+2025-11-22,8,Extreme Fear
+2025-11-23,12,Extreme Fear
+2025-11-24,17,Extreme Fear
+2025-11-25,21,Extreme Fear
+2025-11-26,26,Fear
+2025-11-27,29,Fear
+2025-11-28,33,Fear
+2025-11-29,36,Fear
+2025-11-30,34,Fear
+2025-12-01,30,Fear
+2025-12-02,25,Extreme Fear
+2025-12-03,21,Extreme Fear
+2025-12-04,18,Extreme Fear
+2025-12-05,14,Extreme Fear
+2025-12-06,11,Extreme Fear
+2025-12-07,9,Extreme Fear
+2025-12-08,7,Extreme Fear
+2025-12-09,6,Extreme Fear
+2026-01-01,18,Extreme Fear
+2026-01-02,17,Extreme Fear
+2026-01-03,16,Extreme Fear
+2026-01-04,15,Extreme Fear
+2026-01-05,14,Extreme Fear
+2026-01-06,13,Extreme Fear
+2026-01-07,12,Extreme Fear
+2026-01-08,14,Extreme Fear
+2026-01-09,16,Extreme Fear
+2026-01-10,19,Extreme Fear
+2026-01-11,22,Extreme Fear
+2026-01-12,25,Fear
+2026-01-13,27,Fear
+2026-01-14,24,Extreme Fear
+2026-01-15,21,Extreme Fear
+2026-01-16,20,Extreme Fear
+2026-01-17,23,Extreme Fear
+2026-01-18,26,Fear
+2026-01-19,28,Fear
+2026-01-20,30,Fear
+2026-01-21,29,Fear
+2026-01-22,31,Fear
+2026-01-23,33,Fear
+2026-01-24,32,Fear
+2026-01-25,30,Fear
+2026-01-26,28,Fear
+2026-01-27,26,Fear
+2026-01-28,27,Fear
+2026-01-29,29,Fear
+2026-01-30,31,Fear
+2026-01-31,34,Fear
+2026-02-01,33,Fear
+2026-02-02,32,Fear
+2026-02-03,31,Fear
+2026-02-04,29,Fear
+2026-02-05,27,Fear
+2026-02-06,25,Fear
+2026-02-07,24,Extreme Fear
+2026-02-08,22,Extreme Fear
+2026-02-09,21,Extreme Fear
+2026-02-10,23,Extreme Fear
+2026-02-11,26,Fear
+2026-02-12,28,Fear
+2026-02-13,30,Fear
+2026-02-14,32,Fear
+2026-02-15,34,Fear
+2026-02-16,36,Fear
+2026-02-17,35,Fear
+2026-02-18,33,Fear
+2026-02-19,31,Fear
+2026-02-20,29,Fear
+2026-02-21,27,Fear
+2026-02-22,26,Fear
+2026-02-23,28,Fear
+2026-02-24,30,Fear
+2026-02-25,32,Fear
+2026-02-26,31,Fear
+2026-02-27,29,Fear
+2026-02-28,28,Fear
+2026-03-01,29,Fear
+2026-03-02,31,Fear
+2026-03-03,33,Fear
+2026-03-04,35,Fear
+2026-03-05,37,Fear
+2026-03-06,36,Fear
+2026-03-07,34,Fear
+2026-03-08,32,Fear
+2026-03-09,30,Fear
+2026-03-10,28,Fear
+2026-03-11,26,Fear
+2026-03-12,25,Fear
+2026-03-13,27,Fear
+2026-03-14,29,Fear
+2026-03-15,31,Fear
+2026-03-16,34,Fear
+2026-03-17,36,Fear
+2026-03-18,38,Fear
+2026-03-19,41,Fear
+2026-03-20,43,Fear
+2026-03-21,40,Fear
+2026-03-22,37,Fear
+2026-03-23,35,Fear
+2026-03-24,33,Fear
+2026-03-25,31,Fear
+2026-03-26,29,Fear
+2026-03-27,27,Fear
+2026-03-28,28,Fear
+2026-03-29,30,Fear
+2026-03-30,32,Fear
+2026-03-31,34,Fear
